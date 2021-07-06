@@ -111,16 +111,15 @@ h1{
 .sandwich{
     display: flex;
     margin-bottom: 80px;
-    width: 80%%;
-    padding-left: 5%;
+    width: 80%;
+    padding-left:5%;
 }
 .area{
     width: 30%;
-    margin-right: 20px;
+    margin-left: 30px;
+    padding : 15px 15px 15px 15px;
+
     box-shadow: 5px 5px 15px gray;
-}
-#border{
-    padding: 10px 10px 10px 10px;
 }
 .youtube{
     width: 80%;
