@@ -3,8 +3,8 @@ h1{
     font-weight: 900;
     font-size: 50px;
 }
-span{
-    color:orange;
+.join{
+    color: orange;
 }
 .visit{
     padding: 10px;
@@ -22,14 +22,18 @@ span{
     background-position-x: left;
     background-size: 100%;
     background-repeat: no-repeat; 
-    margin-bottom: 100px;  
+    margin-bottom: 80px;  
 }
 .burger{
+    font-size: 20px;
     width: 100%;
     padding-right: 10%;
+    margin-bottom: 40px;
 }
 .pizza{
     width: 100%;
+    padding-top: 60px;
+    padding-left: 50px;
 }
 
 .width{
@@ -43,6 +47,11 @@ span{
     background-size: 100%;
     background-repeat: no-repeat;
     padding-bottom: 100px;
+    margin-bottom: 70px;
+}
+.world{
+    width: 80%;
+    padding-top: 70px;
 }
 .test{
     width: 100%;
@@ -51,7 +60,7 @@ span{
 }
 .testy{
     width: 100%;
-    padding-top: 40px;
+    padding-top: 150px;
     padding-right: 10%;
 }
 .contact{
@@ -63,13 +72,87 @@ span{
     border-radius: 18px;
 }
 .padding{
-    padding-bottom: 30px;
+    padding-bottom: 15px;
     color: darkred;
     font-size: 30px;
 }
 .paragraph{
-    padding-bottom: 40px;
+    padding-bottom: 35px;
     color: darkred;
     
 }
+.recipie{
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: chocolate;
+}
+.quotes{
+    text-align: center;
+    margin-bottom: 40px;
+}
 
+.colour{
+    color: orangered;
+    font-size: 20px;
+    
+}
+.king{
+    margin-bottom: 10px;
+}
+.tittle{
+    color: darkorange;
+    font-size: 30px;
+}
+.ginger{
+    color: darkred;
+    font-size: 20px ;
+}
+.sandwich{
+    display: flex;
+    margin-bottom: 80px;
+    width: 80%%;
+    padding-left: 5%;
+}
+.area{
+    width: 30%;
+    margin-right: 20px;
+    box-shadow: 5px 5px 15px gray;
+}
+#border{
+    padding: 10px 10px 10px 10px;
+}
+.youtube{
+    width: 80%;
+   display: flex;
+   padding-left: 10%;
+   margin-left: 5%;
+   box-shadow: 5px 5px 15px gray;
+   margin-bottom: 50px;
+}
+.likes{
+   width: 30%;
+   padding-left: 50px;
+   
+}
+.design{
+    color: olivedrab;
+    font-size: 30px;
+}
+.size{
+    font-size: 20px;
+}
+.last{
+    color: gray;
+    margin-right: 10px;
+}
+footer{
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color: orange;
+}
+.footer{
+    font-size: 30px;
+    
+}
